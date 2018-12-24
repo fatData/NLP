@@ -7,4 +7,4 @@ by focusing on using a more effective vectorization method. Also, I am aware the
 Neural Nets, however due to the data hungry nature of NN models and the small dataset we are using, I chose to experiment with different classifiers.)
 
 - Open project.ipynb
-- Note that all results have already been generated in the notebook and re-running it to get the results again will take a very long 
+- Note that all results have already been generated in the notebook and re-running it to get the results again will take a very long time
