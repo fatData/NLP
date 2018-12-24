@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+jupyter
+sklearn
+nltk
+more-itertools
+glob
