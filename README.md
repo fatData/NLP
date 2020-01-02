@@ -1,6 +1,4 @@
-CMPT 413 Final Project - Sentiment Analysis of Movie Reviews
-
-Instructions for TA/Prof:
+Sentiment Analysis of Movie Reviews
 
 (Note the motivation was to improve upon the results from the 2011 paper http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf
 by focusing on using a more effective vectorization method. Also, I am aware there are more advanced ML models that could have been used such as
